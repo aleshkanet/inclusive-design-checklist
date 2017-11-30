@@ -52,8 +52,8 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Указывайте язык по умолчанию и lang=”[ISO code]” для подразделов на разных языках
 - [ ] Делайте контролы, которые выглядят как контролы, дайте им сильное восприятие
 - [ ] Подчеркивайте ссылки — по крайней мере в основном тексте
-- [ ] Make sure all content belongs to a landmark element (`<header>`, `<footer>`, `<nav>`, `<main>`, etc)
-- [ ] Avoid pure white or pure black shades
+- [ ] Убедитесь, что все содержимое принадлежит описывающим его элементам (`<header>`, `<footer>`, `<nav>`, `<main>`, и т.д.)
+- [ ] Избегайте чисто-белого или чисто-черного оттенков
 - [ ] Mark invalid fields clearly and provide associated error messages
 - [ ] Ensure content is not obscured through zooming (no fixed widths)
 - [ ] Provide a `manifest.json` file for identifiable homescreen entries
